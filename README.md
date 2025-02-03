@@ -1,2 +1,1 @@
-# pagina-responsiva
-pagina responsiva para faculdade
+# streaming page
